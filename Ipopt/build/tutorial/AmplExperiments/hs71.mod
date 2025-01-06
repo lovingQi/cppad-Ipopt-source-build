@@ -1,0 +1,1 @@
+../../../tutorial/AmplExperiments/hs71.mod
